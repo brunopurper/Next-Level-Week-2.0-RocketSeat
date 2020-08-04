@@ -2,7 +2,7 @@
  Repositório para estudar o Next Level Week, da RocketSeat, onde iremos fazer um projeto prático, de um site usando, HTML 5, CSS3 e JavaScript. O nome do site é Proffy
 
 
-![]()
+![](https://lh3.googleusercontent.com/Dv1YkNclN-yjeInukdSfUQtWwWAMhPAgtM5Jjj998uiu5GIhrOFEjbUQtFyPUgCh5gbZEtUPc5Ie47dRbxw73GXhLVRN5bt67ZTF14GllPeACzIUuG4r4XP-CfmhtAPjpe3ab6ftr5SlCq5o2kpvKUGgfSl4kQFQeJSqolt2ndSbHOYPJ7seQY9ccHqPKzlODQWZfkSPBz7Tb1NKaamhGosBo-cH3dwa48PLsxipD-XQIdLQsDYzuHFzzcz3nD-J9_d9AiFGY0sq-W562EUIZXetBD-VOb-ZusikHVZLYzl8IZwyUx6Hz5tH_loPJyD7fiSf0Dw1VLai4jccLFMYBq3U9P1-tokckTgDVL8nq0OTBxuz54RIRo-t5_Eaj9fmmL7pwYEXCH-kZ_pFkj7ieHwYuOnZqtjBKLsTmfm_GqsxzArDXAgVfQaY7BoyXPKYtlO8HIYU9MAFqZ69nLqcASqvK7kmA_NjRXB0d1fK2YMfS7JfiAWK9n_zsXPCdSlv-v2l45ujdfFe-kjQBOoD2M9QyAPYvfrl0nMQzrZMzV9iWbk2vEpYDQwcfp8hXCkDHZxyT162tKrniR9Kh6l19cXR43x5P1MRXi1l4V5gVh6WXPBv_dj_f5x-Z6K-sjfZPaVPzJB_7fZUsq0OYNue2bkA_044xm9l8HsFirIhOfX3EIGwJTeDC68pE8uiNQ=w1236-h695-no?authuser=0)
 
 
 
