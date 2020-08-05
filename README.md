@@ -1,9 +1,24 @@
 # Next Level Week 2.0 RocketSeat
- Repositório para estudar o Next Level Week, da RocketSeat, onde iremos fazer um projeto prático, de um site usando, HTML 5, CSS3 e JavaScript. O nome do site é Proffy
+ Repositório para estudar o Next Level Week, da RocketSeat, onde iremos fazer um projeto prático, de um site usando, HTML 5, CSS3 e JavaScript. O nome do site é Proffy.
+ Logo abaixo temos uma foto de como vai ficar o site. 
 
 
-![](https://lh3.googleusercontent.com/Dv1YkNclN-yjeInukdSfUQtWwWAMhPAgtM5Jjj998uiu5GIhrOFEjbUQtFyPUgCh5gbZEtUPc5Ie47dRbxw73GXhLVRN5bt67ZTF14GllPeACzIUuG4r4XP-CfmhtAPjpe3ab6ftr5SlCq5o2kpvKUGgfSl4kQFQeJSqolt2ndSbHOYPJ7seQY9ccHqPKzlODQWZfkSPBz7Tb1NKaamhGosBo-cH3dwa48PLsxipD-XQIdLQsDYzuHFzzcz3nD-J9_d9AiFGY0sq-W562EUIZXetBD-VOb-ZusikHVZLYzl8IZwyUx6Hz5tH_loPJyD7fiSf0Dw1VLai4jccLFMYBq3U9P1-tokckTgDVL8nq0OTBxuz54RIRo-t5_Eaj9fmmL7pwYEXCH-kZ_pFkj7ieHwYuOnZqtjBKLsTmfm_GqsxzArDXAgVfQaY7BoyXPKYtlO8HIYU9MAFqZ69nLqcASqvK7kmA_NjRXB0d1fK2YMfS7JfiAWK9n_zsXPCdSlv-v2l45ujdfFe-kjQBOoD2M9QyAPYvfrl0nMQzrZMzV9iWbk2vEpYDQwcfp8hXCkDHZxyT162tKrniR9Kh6l19cXR43x5P1MRXi1l4V5gVh6WXPBv_dj_f5x-Z6K-sjfZPaVPzJB_7fZUsq0OYNue2bkA_044xm9l8HsFirIhOfX3EIGwJTeDC68pE8uiNQ=w1236-h695-no?authuser=0)
+![](https://media.discordapp.net/attachments/719363445623095319/740416861828677642/Resultado_da_Next_Level_Week.png?width=821&height=468)
 
+Logo abaixo vou documentar todo meu aprendizado diário. 
+***
+# Meu aprendizado (dia 1):
+
+- [x] HTML 5
+- [x] CSS3
+
+Como já estou estudando por outras plataformas, e também já tinha feito o NLW 01, o primeiro dia, foi me apresentado alguns conceitos que eu já sabia, de duas tecnologias essenciais para desenvolvimento WEB.
+Foi apresentado conceito de BOX-MODEL, que é muito interessante, e começamos a ver o desing responsivo mobile-first. Nos próximos dias vou documentar novamente o aprendizado.
+Para o dia 01, esse foi o resultado: 
+
+![](https://media.discordapp.net/attachments/719363445623095319/740416362983325766/resultado_do_primiero_dia.png)
+
+ 
 
 
 
