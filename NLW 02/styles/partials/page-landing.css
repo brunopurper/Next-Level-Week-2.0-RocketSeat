@@ -24,9 +24,25 @@
 .logo-container h2{
     font-weight: 500;
     font-size: 3.6rem;
-    
+    line-height: 4.6rem;
+    margin-top: 0.8rem;
+
 }
 
 .hero-image{
     width: 100%;
+}
+
+.buttons-container{
+    display: flex; /*faz funcionar o center */
+    justify-content: center;
+    margin:3.2rem;
+}
+
+.buttons-container a {
+    width: 30rem;
+    height: 10.4rem;
+    
+    border-radius: 0.8rem;
+    margin-right: 1.6rem;
 }
