@@ -79,7 +79,7 @@
 }
 
 .total-connection{
-    font-size: 1.8rem;
+    font-size: 1.2rem;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -113,6 +113,8 @@
         grid-area: proffy;
         text-align: initial;
         align-self: center;
+        height: 127px;
+        margin: 0;
 
 
     }
@@ -123,6 +125,7 @@
     }
     .hero-image{
         grid-area: image;
+        height: 350px;
     }
     .buttons-container{
         grid-area: button;
