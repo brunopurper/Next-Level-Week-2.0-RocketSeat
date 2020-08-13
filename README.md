@@ -30,13 +30,17 @@ Para o dia 01, esse foi o resultado:
 
  Resultado nas fotos:
 
- ![](https://cdn.discordapp.com/attachments/719363445623095319/742781892042031194/unknown.png)
+Como ficou a página principal no Desktop.
 
+ ![](https://media.discordapp.net/attachments/719363445623095319/742781892042031194/unknown.png?width=960&height=379)
 
-![]()
+Parte do mobile-first da página de estudos
 
+![](https://media.discordapp.net/attachments/719363445623095319/743266894282227712/unknown.png?width=635&height=530)
 
-![]()
+Pagina de estudos no Desktop
+
+![](https://media.discordapp.net/attachments/719363445623095319/743315711488950392/unknown.png?width=960&height=485)
 
 
 
