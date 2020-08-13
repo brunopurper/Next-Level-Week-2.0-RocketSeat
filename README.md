@@ -19,7 +19,24 @@ Para o dia 01, esse foi o resultado:
 ![](https://media.discordapp.net/attachments/719363445623095319/740416362983325766/resultado_do_primiero_dia.png)
 
  
+ # Meu aprendizado (dia 2):
 
+ - [x] HTML 5
+ - [x] CSS3
+
+ Cada dia que passa, começo a ficar mais entusiasmado com o css, algumas coisas que eram extremamente abstratas para mim, começam a ganhar cor, e tudo fica mais bonito. Não vejo a hora de praticar isso, em um projeto pessoal.
+
+ Nesse segundo dia, terminamos o design do desktop do index do Proffy, como também fizemos o layout mobile e desktop da página study.html.
+
+ Resultado nas fotos:
+
+ ![](https://cdn.discordapp.com/attachments/719363445623095319/742781892042031194/unknown.png)
+
+
+![]()
+
+
+![]()
 
 
 
